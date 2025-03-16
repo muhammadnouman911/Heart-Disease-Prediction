@@ -1,8 +1,3 @@
-
-
-
-
-
 # Heart-Disease-Prediction
 
 ## Overview
