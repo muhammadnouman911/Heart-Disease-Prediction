@@ -1,7 +1,3 @@
-Here is a structured and professional **README.md** file for your **Heart-Disease-Prediction** project:
-
----
-
 # Heart-Disease-Prediction
 
 ## Overview
